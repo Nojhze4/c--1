@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#\contabilidad\bin\Debug\net9.0\contabilidad.exe
+C:\Users\User\Documents\C#\contabilidad\bin\Debug\net9.0\contabilidad.deps.json
+C:\Users\User\Documents\C#\contabilidad\bin\Debug\net9.0\contabilidad.runtimeconfig.json
+C:\Users\User\Documents\C#\contabilidad\bin\Debug\net9.0\contabilidad.dll
+C:\Users\User\Documents\C#\contabilidad\bin\Debug\net9.0\contabilidad.pdb
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.AssemblyInfo.cs
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.sourcelink.json
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.dll
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\refint\contabilidad.dll
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.pdb
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\contabilidad.genruntimeconfig.cache
+C:\Users\User\Documents\C#\contabilidad\obj\Debug\net9.0\ref\contabilidad.dll
